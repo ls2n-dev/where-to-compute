@@ -1,2 +1,2 @@
-# where-to-compute
+# Where to compute
 User Guide for Computation in LS2N
